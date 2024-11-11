@@ -1,4 +1,4 @@
-#https://github.com/Dechenyangzom/SWE_CAP1_DZO_Spell_Checker.git
+# https://github.com/Dechenyangzom/SWE_CAP1_Dzongkha_Spell_Checkerr
 
 
 
